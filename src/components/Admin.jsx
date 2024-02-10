@@ -1,6 +1,7 @@
 import axios from "axios";
 import React, { useState, useEffect } from "react";
 import API_URL from "./api/config";
+import { nanoid } from "nanoid";
 
 function Admin() {
   const [posts, setPosts] = useState([]);
@@ -51,6 +52,7 @@ function Admin() {
     price: 0,
     dec: "",
     image: "",
+    id: nanoid(),
   });
 
   function handleChange(e) {
@@ -163,7 +165,8 @@ function Admin() {
                 </div>
                 <div className="">
                   <input
-                    type="link"
+                    name="image"
+                    type="text"
                     value={post_info.image}
                     onChange={handleChange}
                     className="flex h-10 w-full rounded-md border border-gray-300 bg-transparent px-3 py-2 text-sm placeholder:text-gray-400 focus:outline-none focus:ring-1 focus:ring-gray-400 focus:ring-offset-1 disabled:cursor-not-allowed disabled:opacity-50"

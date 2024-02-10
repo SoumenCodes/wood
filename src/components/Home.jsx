@@ -18,7 +18,6 @@ function Home() {
       console.log(error);
     }
   }
-
   function SearchPost() {
     setSearchActive(true);
     const SearchResult = posts.filter((post) =>
