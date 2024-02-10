@@ -64,6 +64,12 @@ function Admin() {
       await axios.put(`${API_URL}/posts/${editid}`, post_info);
       setEdit(false);
       setEditid("");
+      setPost_info({
+        name: "",
+        price: 0,
+        dec: "",
+        image: "",
+      });
       FetchPost();
     } else {
       event.preventDefault();
@@ -192,7 +198,7 @@ function Admin() {
                   onClick={addPost}
                   className="inline-flex w-full items-center justify-center rounded-md bg-indigo-500 px-3.5 py-2.5 font-semibold leading-7 text-white hover:bg-black/80"
                 >
-                  Get started
+                  {edit ? "Save  Edit" : "Add Product"}
                 </button>
               </div>
             </div>

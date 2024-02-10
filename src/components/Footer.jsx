@@ -64,7 +64,7 @@ function Footer() {
             <div className="-m-1.5 flex flex-wrap">
               <div className="w-auto p-1.5">
                 <a href="#">
-                  <div className="flex h-8 w-8 items-center justify-center rounded-full border border-gray-300 hover:border-gray-400">
+                  <div className="flex hover:bg-blue-600 h-8 w-8 items-center justify-center rounded-full border border-gray-300 hover:border-gray-400">
                     <svg
                       width="8"
                       height="14"
@@ -82,7 +82,7 @@ function Footer() {
               </div>
               <div className="w-auto p-1.5">
                 <a href="#">
-                  <div className="flex h-8 w-8 items-center justify-center rounded-full border border-gray-300 hover:border-gray-400">
+                  <div className="flex hover:bg-blue-400 h-8 w-8 items-center justify-center rounded-full border border-gray-300 hover:border-gray-400">
                     <svg
                       width="14"
                       height="11"
@@ -100,7 +100,7 @@ function Footer() {
               </div>
               <div className="w-auto p-1.5">
                 <a href="#">
-                  <div className="flex h-8 w-8 items-center justify-center rounded-full border border-gray-300 hover:border-gray-400">
+                  <div className="flex hover:bg-fuchsia-600 h-8 w-8 items-center justify-center rounded-full border border-gray-300 hover:border-gray-400">
                     <svg
                       width="16"
                       height="15"

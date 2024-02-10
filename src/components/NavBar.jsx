@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Menu, X } from "lucide-react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
 const menuItems = [
   {
@@ -44,7 +44,9 @@ export function ExampleNavbarTwo() {
               />
             </svg>
           </span>
-          <span className="font-bold">Wood-Works</span>
+          <span className="font-bold text-2xl">
+            <Link to="/">Wood-Works</Link>
+          </span>
         </div>
         <div className="hidden grow items-start lg:flex">
           <ul className="ml-12 inline-flex space-x-8">

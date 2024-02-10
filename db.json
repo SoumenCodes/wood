@@ -2,17 +2,31 @@
   "posts": [
     {
       "id": 1,
-      "name": "Wood-",
-      "dec": "hskhv eih jlgdbl brrufkgl jejajjsiHljeFHHQOEAUSGNJ Ew id UAWH  HA S",
+      "name": "Bed",
+      "dec": "Bed",
       "price": 700,
-      "image": "https://4.imimg.com/data4/WN/KO/MY-3909841/wooden-logs.jpg"
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/LP/JA/IM/13002005/61detbxktml-sl1081--500x500.jpg"
     },
     {
-      "name": "Juutaa",
+      "name": "Table Set",
       "price": 700,
-      "dec": "hskhv eih jlgdbl brrufkgl jejajjsiHljeFHHQOEAUSGNJ Ew id UAWH  HA S",
-      "image": "https://images.unsplash.com/photo-1588099768523-f4e6a5679d88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwxMTM4MTU1NXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "dec": "Table Set",
+      "image": "https://5.imimg.com/data5/SN/PJ/OU/SELLER-65814729/wooden-furniture-items.jpg",
       "id": 2
+    },
+    {
+      "name": "Sofa",
+      "price": 700,
+      "dec": "Sofa",
+      "image": "https://sundaydesign.co.in/cdn/shop/files/HARSF-007.jpg?v=1697446153",
+      "id": 3
+    },
+    {
+      "name": "Office Table",
+      "price": 700,
+      "dec": "Office Table set",
+      "image": "https://ighomall.com/image/cache/catalog/products/office-furniture/4-feet-office-table-with-3-drawers-4-feet-office-table-with-3-drawers-550x550.jpg",
+      "id": 4
     }
   ]
 }
