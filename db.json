@@ -4,29 +4,57 @@
       "name": "Bed",
       "price": "1000",
       "dec": "Bed",
-      "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/LP/JA/IM/13002005/61detbxktml-sl1081--500x500.jpg",
+      "image": "https://res.cloudinary.com/ddxwdqwkr/image/upload/v1690837534/patterns.dev/Images/vue/intro/vue.png",
       "id": "1"
     },
     {
-      "name": "Table Set",
-      "price": 700,
-      "dec": "Table Set",
-      "image": "https://5.imimg.com/data5/SN/PJ/OU/SELLER-65814729/wooden-furniture-items.jpg",
+      "name": "Leaf Table",
+      "price": 2300,
+      "dec": "Leaf Table set",
+      "image": "https://images.pexels.com/photos/86397/leaf-individually-linde-lipovina-86397.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": "6"
+    },
+    {
+      "name": "Type Script",
+      "price": "1700",
+      "dec": "Type Script",
+      "image": "https://www.mixmax.com/hubfs/Engineering/Advent%202022/javascript-to-typescript.png",
       "id": "2"
     },
     {
       "name": "Sofa",
       "price": 700,
       "dec": "Sofa",
-      "image": "https://sundaydesign.co.in/cdn/shop/files/HARSF-007.jpg?v=1697446153",
+      "image": "https://images.pexels.com/photos/1421177/pexels-photo-1421177.jpeg?auto=compress&cs=tinysrgb&w=600",
       "id": "3"
+    },
+    {
+      "name": "Butterfly Table",
+      "price": 1100,
+      "dec": "Fly Table set",
+      "image": "https://images.pexels.com/photos/1913226/pexels-photo-1913226.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": "7"
     },
     {
       "name": "Office Table",
       "price": 700,
       "dec": "Office Table set",
-      "image": "https://ighomall.com/image/cache/catalog/products/office-furniture/4-feet-office-table-with-3-drawers-4-feet-office-table-with-3-drawers-550x550.jpg",
+      "image": "https://images.pexels.com/photos/981062/pexels-photo-981062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "id": "4"
+    },
+    {
+      "name": "Book Table",
+      "price": 400,
+      "dec": "Bopl Table set",
+      "image": "https://images.pexels.com/photos/1112048/pexels-photo-1112048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": "5"
+    },
+    {
+      "name": "React",
+      "price": "1700",
+      "dec": "React and Redux",
+      "image": "https://miro.medium.com/v2/resize:fit:600/1*2n7lcRE9XYjbKtmknG9Ozg.jpeg",
+      "id": "It9k9Krp7pH244XGT-eo6"
     }
   ]
 }

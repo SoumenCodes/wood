@@ -45,7 +45,7 @@ export function ExampleNavbarTwo() {
             </svg>
           </span>
           <span className="font-bold text-2xl">
-            <Link to="/">Wood-Works</Link>
+            <Link to="/">Shop-Here</Link>
           </span>
         </div>
         <div className="hidden grow items-start lg:flex">

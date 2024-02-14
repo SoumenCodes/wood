@@ -103,7 +103,7 @@ function Admin() {
             </svg>
           </div>
           <h2 className="text-center text-2xl font-bold leading-tight text-black">
-            Vishal Wood Shop
+            Shop-Here
           </h2>
 
           <form className="mt-8">
